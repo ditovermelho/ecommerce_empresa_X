@@ -1,4 +1,4 @@
-# ecommerce_empresa_X
+# E-commerce empresa X
 
 Vamos criar um e-commerce para empresa X, feito em PHP e MySQl
 
