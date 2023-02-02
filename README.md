@@ -45,10 +45,18 @@ Contribuidor principal: https://github.com/
 
 [![Logo do HTML](https://cdn-icons-png.flaticon.com/512/174/174854.png)](https://cdn-icons-png.flaticon.com/512/174/174854.png)
 
-## Código da função soma
+## Código da função soma:
 
 ```javascript
 function soma(a, b){
     return a + b;
 }
 ```
+
+## Lista de tarefas a fazer:
+
+- [X] Área de membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistema de bônus
+- [ ] CSS do rodapé
+ 
