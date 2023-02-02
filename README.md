@@ -1,6 +1,6 @@
 # E-commerce empresa X
 
-Vamos criar um e-commerce para empresa X, feito em PHP e MySQl
+Vamos criar um **e-commerce** para *empresa X*, feito em PHP e MySQl
 
 ## Funcionalidade: 
 
