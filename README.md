@@ -36,3 +36,9 @@ __Melhoria 1__, _Melhoria 2_
 ### Imagem externa
 
 ![Logo do PHP](https://www.onespan.com//sites/default/files/blog/images/logo-php-adbac78231.png)
+
+## Links interessantes:
+
+[Google](https://www.google.com/?&bih=762&biw=1495&client=opera-gx&hs=YzN&hl=pt-BR)
+
+Contribuidor principal: https://github.com/ditovermelho
