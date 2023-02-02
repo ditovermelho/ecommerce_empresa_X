@@ -4,8 +4,10 @@ Vamos criar um **e-commerce** para *empresa X*, feito em PHP e MySQl
 
 ## Funcionalidade: 
 
-Checkout, Tela de produto, catálogo Home com banner
+_Checkout, **Tela de produto**, catálogo Home com 
+
+**Checkout, _Tela de produto_, catálogo Home com banner**
 
 ###### Melhorias de projeto:
 
-Melhoria 1, Melhoria 2
+__Melhoria 1__, _Melhoria 2_
