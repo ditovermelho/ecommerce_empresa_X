@@ -42,3 +42,4 @@ __Melhoria 1__, _Melhoria 2_
 [Google](https://www.google.com/?&bih=762&biw=1495&client=opera-gx&hs=YzN&hl=pt-BR)
 
 Contribuidor principal: https://github.com/ditovermelho
+[![Logo do HTML](https://cdn-icons-png.flaticon.com/512/174/174854.png)](https://cdn-icons-png.flaticon.com/512/174/174854.png)
