@@ -23,5 +23,8 @@ __Melhoria 1__, _Melhoria 2_
 ### Funcionalidade e desenvolvedor
 
 1. Área de membros
+    1. Login diferente para grupos de clientes
+    2. Desconto especial para grupos de clientes
+    3. CSS diferente para grupos de clientes
 2. Integração com outos pagamentos
 3. Sistema de bonus de primeira compra
