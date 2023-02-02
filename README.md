@@ -31,4 +31,7 @@ __Melhoria 1__, _Melhoria 2_
 
 ### Imagem local
 
-![Logo Python](img/python.jpg)
+![Logo do Python](img/python.jpg)
+
+### Imagem externa
+
