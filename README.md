@@ -44,3 +44,11 @@ __Melhoria 1__, _Melhoria 2_
 Contribuidor principal: https://github.com/
 
 [![Logo do HTML](https://cdn-icons-png.flaticon.com/512/174/174854.png)](https://cdn-icons-png.flaticon.com/512/174/174854.png)
+
+## Código da função soma
+
+```javascript
+function soma(a, b){
+    return a + b;
+}
+```
